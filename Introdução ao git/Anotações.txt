@@ -1,0 +1,16 @@
+Link para download Git:
+https://git-scm.com/downloads
+
+Fluxo atualizar branch:
+
+git add "arquivos alterados"
+git commit -m "mensagem de commit"
+git push (se for a primeira vez, git push -u origin main)
+
+Cria branch:
+
+git branch "nome do branch"
+
+Mudar de branch:
+
+git checkout "nome do branch"
